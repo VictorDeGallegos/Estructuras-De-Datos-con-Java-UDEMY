@@ -23,7 +23,7 @@ Dentro del bucle for asigna a cada elemento del arreglo para cada iteración del
 
 # 4.- Encapsular un arreglo no ordenado
 
-Crea una clase Arreglo.java donde definas variables de instancia y el constructor de la clase apoyate de la estructura vista en Encapsulacion de un arreglo en una clase.md
+Crea una clase Arreglo.java donde definas variables de instancia y el constructor de la clase apoyate de la estructura de **Clase en java con arreglo encapsulado** vista en [Encapsulacion de un arreglo en una clase.md](https://github.com/VictorDeGallegos/Estructuras-De-Datos-con-Java-UDEMY/blob/main/Contenido%20del%20curso/4.Arreglos%20encapsulamiento/1.Encapsulacion%20de%20un%20arreglo%20en%20una%20clase.md#clase-en-java-con-arreglo-encapsulado)
 
 Define los metodos:
 
