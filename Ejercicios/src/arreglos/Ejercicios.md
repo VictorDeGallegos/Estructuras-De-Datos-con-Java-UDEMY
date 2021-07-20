@@ -20,3 +20,33 @@ En la misma clase Arreglos.java inicializa la variable buscarItem con el valor d
 Crear otro bucle for para recorrer nuevamente el arreglo pero esta vez el bucle for se iniciará a partir del índice j que es el índice del elemento a borrar y quedará mientras el índice K sea menor que el número de elementos del arreglo.
 
 Dentro del bucle for asigna a cada elemento del arreglo para cada iteración del bucle El valor del elemento inmediato superior.
+
+# 4.- Encapsular un arreglo no ordenado
+
+Crea una clase Arreglo.java donde definas variables de instancia y el constructor de la clase apoyate de la estructura vista en Encapsulacion de un arreglo en una clase.md
+
+Define los metodos:
+
+- _buscar()_ : Metodo que busca un valor especifico en un arreglo
+
+- _insertar()_ : Inserta un nuevo elemento en un arreglo
+
+- _eliminar()_ : Borra el elemento del arreglo con valor dato
+
+- _mostrarElementos()_ : imprime en pantalla el contenido del arreglo
+
+- _valorElemento()_ : muestra el valor del elemento en la posicion i del arreglo
+
+Posteriormente crea un clase ArregloEncapsulado.java con un metodo main, dentro de el crea una instancia de la clase Arreglo.java y usa los metodos definidos anteriormente para manipular el arreglo de tipo numerico encapsulado en la misma clase Arreglo.java y realiza lo siguiente:
+
+- 1. Crear un arreglo con un tamaño de 30 elementos.
+
+- 2. Inserta 10 elementos en arreglo
+
+- 3. Imprime los valores del arreglo en pantalla
+
+- 4. Busca un elemento en el arreglo (eres libre de elegir el valor a buscar)
+
+- 5. Borra 3 elementos del arreglo
+
+- 6. Imprimimos valores del arreglo nuevamente
