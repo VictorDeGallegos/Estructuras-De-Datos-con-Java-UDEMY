@@ -50,3 +50,35 @@ Posteriormente crea un clase ArregloEncapsulado.java con un metodo main, dentro 
 - 5. Borra 3 elementos del arreglo
 
 - 6. Imprimimos valores del arreglo nuevamente
+
+# 5.- Encapsular un arreglo ordenado
+
+Crea una clase ArregloOrdenado.java
+
+Define un constructor crea arreglo de tamaño igual a tam, El argumento tam define el tamaño del arreglo
+
+Define los metodos
+
+- _busquedaBinaria()_ : busqueda binaria. retorna posicion del elemento dato en el arreglo caso
+
+- _insertar()_ : Inserta dato en el arreglo
+
+- _eliminar()_ : Elimina dato de arreglo; retorna false si no se puede eliminar dato porque no
+
+- _mostrarArreglo()_ : Muestra contenido del arreglo
+
+- _ValorElemento()_ : Muestra contenido del arreglo muestra el valor del elemento en la posicion i del arreglo
+
+Posteriormente crea un clase ArregloOrdenadoMain.java con un metodo main y realiza lo siguiente
+
+- 1. Crear un arreglo con un tamaño de 30 elementos.
+
+- 2. Inserta 10 valores al arreglo
+
+- 3. Imprimimos valores de arreglo arrOrd
+
+- 4. Busca elemento en arreglo (eres libre de elegir el elemento a buscars)
+
+- 5. Borra 3 elementos del arreglo (eres libre de elegir que elementos eliminar)
+
+- 6. Mostrar valores del arreglo arrOrd
