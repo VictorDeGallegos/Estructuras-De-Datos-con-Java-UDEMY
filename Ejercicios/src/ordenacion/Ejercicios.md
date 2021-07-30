@@ -19,3 +19,14 @@ El problema: calcular el maximo y el minimo valor de un conjunto de N datos
 - 6. Ordenamos el arreglo
 
 - 7. Mostramos el menor valor y el mayor valor
+
+# Implementacion de la ordenacion por seleccion
+
+Implementa una clase ArreglosSeleccion.java contendrá los mismos métodos que la clase de [ArregloBurbuja.java](https://github.com/VictorDeGallegos/Estructuras-De-Datos-con-Java-UDEMY/blob/main/Ejercicios/src/ordenacion/ArregloBurbuja.java)
+
+Solamente vamos a sustituir el método de ordenacionBurbuja() por el método de ordenación por selección.
+
+Posteriormente creamo una clase ArreglosSeleccionMain.java y
+Dado un conjunto de valores enteros, retornar todos las pares de números cuya diferencia sea igual a dos. El resultado deberá estar en orden ascendente de valores. Si se ingresan valores enteros duplicados solo se considerarán una vez para el cálculo de las diferencias.
+
+Y se debe mostrar el conjunto de caracteres ordenandolos en pares de elementos
